@@ -50,3 +50,6 @@ def brute_force(string):
 print(encrypt_str('reza', 4))
 print(decrypt_str('viDe', 4))
 print(brute_force('viDe'))
+print('-' * 10)
+print(decrypt_str('bpm yCqks jzwEv nwF rCuxA wDmz Bpm tiHG lwo', 8))
+print(brute_force('bpm yCqks jzwEv nwF rCuxA wDmz Bpm tiHG lwo'))
